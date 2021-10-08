@@ -2,9 +2,9 @@
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
 3 コンフリクトするのは怖い hoge
-5 hoge
-6 hoge
-7 hoge
+5 fuga
+6 fuga
+7 fuga
 9 hoge
 8 hoge
 10 hoge
